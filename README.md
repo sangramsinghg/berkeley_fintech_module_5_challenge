@@ -21,7 +21,7 @@ This project uses python 3.7 along with the following packages:
 
 * [dotenv](https://pypi.org/project/python-dotenv/) - Python-dotenv reads key-value pairs from a .env file and can set them as environment variables.
 
-* [alpaca-trade-api]https://pypi.org/project/alpaca-trade-api/) - alpaca-trade-api-python is a python library for the Alpaca Commission Free Trading API. It allows rapid trading algo development easily, with support for both REST and streaming data interfaces.
+* [alpaca-trade-api](https://pypi.org/project/alpaca-trade-api/) - alpaca-trade-api-python is a python library for the Alpaca Commission Free Trading API. It allows rapid trading algo development easily, with support for both REST and streaming data interfaces.
 
 * [matplotlib](https://github.com/matplotlib/matplotlib) - Library for creating visualization in Python.
 
